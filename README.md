@@ -1,0 +1,2 @@
+# Analyzing-Lead-Quality-and-Optimizing-Campaign-Strategies-for-Enhanced-Conversion-Rates
+This project involves an in-depth analysis of lead quality for a specific product on Amazon, using various statistical and machine learning techniques. By examining trends over time, identifying key drivers of lead quality, and exploring opportunities for improvement, this study aims to optimize campaign strategies to increase conversion rates.
